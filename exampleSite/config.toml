@@ -55,7 +55,7 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
 contentDir = "content/dutch"
-copyright = "Goundworkz 2021"
+copyright = "Groundworkz 2021"
 home = "Home"
 languageCode = "nl-nl"
 languageName = "NL"
