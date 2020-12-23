@@ -5,7 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: "<Infra As Code - Engineers/> "
-  content: Experienced Infrastructure Engineers that autmate and modernise your infra
+  content: Experienced Infrastructure Engineers that automate and modernise your infra
     towards code
   button:
     enable: true
