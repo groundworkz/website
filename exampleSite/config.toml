@@ -54,11 +54,11 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+contentDir = "content/dutch"
+copyright = "Goundworkz 2021"
+home = "Home"
+languageCode = "nl-nl"
+languageName = "NL"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -95,11 +95,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Groundworkz"
 description = "Responsive Multipurpose Parallax Hugo Template"
