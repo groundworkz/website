@@ -3,7 +3,7 @@ team:
   enable: true
   title: GroundWorkz Team
   team_member:
-  - name: Bas van der Zwet
+  - name: Robbert Baas
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: CFO/Founder
