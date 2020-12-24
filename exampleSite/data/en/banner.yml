@@ -11,5 +11,5 @@ banner:
     on secure Infra as Code services from AWS and Azure. '
   button:
     enable: true
-    label: Explore Us
+    label: 'Why us? '
     link: "#services"
