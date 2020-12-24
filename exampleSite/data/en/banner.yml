@@ -6,7 +6,7 @@ banner:
   icon: ''
   title: "<Infra as Code - Engineers/> "
   content: "Experienced Infrastructure engineers that automate and modernise your
-    infra towards infra as Code. \nTogether we Design, Build, Secure and Run your
+    infra towards infra as Code. \n\nTogether we Design, Build, Secure and Run your
     onprem transformation towards AWS & Azure landingzones. "
   button:
     enable: true
