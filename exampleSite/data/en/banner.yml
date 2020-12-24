@@ -4,10 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: "<Infra As Code - Engineers/> "
-  content: 'Experienced Infrastructure Engineers that automate and modernise your
-    infra towards code. We help you create secure landingzones for your devops teams
-    on AWS & AZURE. '
+  title: "<InfraAsCode-Engineers/> "
+  content: Experienced Infrastructure Engineers that autmate and modernise your infra
+    towards code
   button:
     enable: true
     label: Explore Us
