@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
-  icon: " /images/gwlogo.png"
+  icon: "/images/logo.png"
   title: "<Infra as Code - Engineers/> "
   content: 'Experienced Infrastructure Engineers that automate and modernise your
     infra towards code. Together we help you migrate and create robust and secure
