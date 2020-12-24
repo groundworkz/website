@@ -24,11 +24,6 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.en.menu.main]]
 name = "team"
 pre = "#"
 url = "team"
@@ -61,12 +56,7 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "portefeuille"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.fr.menu.main]]
-name = "équipe"
+name = "Team"
 pre = "#"
 url = "team"
 weight = 4
