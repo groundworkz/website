@@ -74,7 +74,7 @@ weight = 7
 author = "Groundworkz"
 description = "Groundworkz 2021"
 google_analytics_id = ""
-logo = "/images/gw-logo-txt.jpg"
+logo = "/images/gw-logo-txt1.jpg"
 post_share = true
 [params.cookies]
 enable = false
