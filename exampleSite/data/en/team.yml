@@ -5,9 +5,11 @@ team:
   team_member:
   - name: Robbert Baas
     image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: CFO/Founder
-    content: 'Hi, I am Bas van der Zwet '
+    image: "/images/founder.png"
+    designation: Team Captain
+    content: 'Hi, I am Robbert Baas.  It is my job to be your scrummaster of your
+      own destiny. Let''s make it make it happen and have a coffee to discuss where
+      you really want to grow towards! '
     social:
     - icon: ti-facebook
       link: "#"
