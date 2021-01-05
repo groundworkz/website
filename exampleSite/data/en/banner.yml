@@ -5,9 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: "<Infra as Code - Engineers/> "
-  content: 'Experienced Infrastructure engineers that automate and modernise your
-    infra towards infra as Code. Together we DESIGN, BUILD, SECURE and RUN your onprem
-    transformation towards AWS & Azure landingzones. '
+  content: 'Experienced Infrastructure engineers that together with your experts Optimize,
+    Automate, Modernise and Migrate your infra towards infra as Code. '
   button:
     enable: true
     label: 'Why us? '
