@@ -1,6 +1,6 @@
 ---
 team:
-  enable: true
+  enable: false
   title: GroundWorkz Team
   team_member:
   - name: Robbert Baas
