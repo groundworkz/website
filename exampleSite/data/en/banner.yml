@@ -6,8 +6,8 @@ banner:
   icon: ''
   title: "<Infra as Code - Engineers/> "
   content: 'Experienced Infrastructure engineers that together with your experts Optimize,
-    Automate, Modernise and Migrate your infra towards infra as Code. '
+    Automate, Modernise and Migrate your infra towards Infra as Code. '
   button:
     enable: true
     label: 'Why us? '
-    link: "#about"
+    link: "#services"
