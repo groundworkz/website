@@ -18,6 +18,6 @@ skill:
   - name: Networking
     percent: 95%
   - name: Cloud
-    percent: 25%
+    percent: 70%
   - name: Security
     percent: 30%
