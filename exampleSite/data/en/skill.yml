@@ -2,10 +2,13 @@
 skill:
   enable: true
   title: What do we Master
-  subtitle: 'We have expertise in nearly any on-premise infrastructure tools as well as modern programming languages, pipeline tooling and AWS & AZURE services '
+  subtitle: 'We have expertise in nearly any on-premise infrastructure tools as well
+    as modern programming languages, pipeline tooling and AWS & AZURE services '
   content: ''
   image: images/about/company-growth.webp
   skill_item:
+  - name: security
+    percent: "30"
   - name: Infrastructure
     percent: 90%
   - name: CI/CD
