@@ -7,11 +7,11 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: security
-    percent: "30"
   - name: Infrastructure
     percent: 90%
   - name: CI/CD
+    percent: 70%
+  - name: Automation
     percent: 70%
   - name: Monitoring
     percent: 80%
@@ -19,3 +19,5 @@ skill:
     percent: 95%
   - name: Cloud
     percent: 25%
+  - name: Security
+    percent: 30%
