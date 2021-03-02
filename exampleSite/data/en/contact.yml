@@ -8,7 +8,7 @@ contact:
   - icon: ti-location-pin
     info: Spoorwegkathedraal Utrecht, The Netherlands
   - icon: ti-email
-    info: 'Email: hello@groundworkz.nl'
+    info: 'Email: info@groundworkz.nl'
   contact_form:
     enable: true
     form_action: "#"
