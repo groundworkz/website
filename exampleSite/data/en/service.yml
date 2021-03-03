@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Our Service Portfolio
   service_item:
   - name: Infra as Code-blueprint sessions
