@@ -4,7 +4,7 @@ service:
   title: Our Service Portfolio
   service_item:
   - name: Infra as Code-blueprint sessions
-    icon: ti-code
+    icon: ti-shift-left
     content: "What does Infra as Code really mean? How can you adopt IaC within your
       organisation?  After our initial conversations with various end users, admins,
       infra owners, we will do our homework and come back with two half day workshops
