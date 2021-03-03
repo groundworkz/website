@@ -3,6 +3,22 @@ service:
   enable: true
   title: Our Service Portfolio
   service_item:
+  - name: Down to earth Infra & DevOps Engineers
+    icon: ti-user
+    content: "We know what it takes to transform your exiting infra setup towards
+      AWS and AZURE landingzones. We know what your DevOps teams need in terms of
+      Infra as Code to create their killer apps. \n\nOur engineers have made their
+      hands very dirty and know how complex on-prem legacy apps can be. Transformation
+      of your apps to Cloud easy?  If you believe in powerpoint based \"lift and shift
+      fairy tails\" that is fine. \n\nIf you want a honest story, you are at the right
+      address and we are more than happy to explain it over a coffee and whiteboard
+      session. \n\nEach of us covers a wide variety of infra and cloud technologies.
+      We spend at least 10% of our time on Continious Learning. This is needed to
+      stay relevant and certified to keep our  multi-skilled profiles in shape. \n\nWe
+      are proud of what we deliver and want to be measured and recognised for our
+      quality output rather than inputs. ( hour rate)  Therefor we will agree with
+      you on realistic tangible outcomes for projects and period based deliverables
+      for semi-periodic jobs. "
   - name: Infra as Code-blueprint sessions
     icon: ti-shift-left
     content: "What does Infra as Code really mean? How can you adopt IaC within your
@@ -13,27 +29,3 @@ service:
       with you we agree on a plan that fits your organisation setup & maturity level.
       Our plan contains detailed short trem backlog items and an clear outlook towards
       the near future.   "
-  - name: WordPress Theme
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
