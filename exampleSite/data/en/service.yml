@@ -29,3 +29,15 @@ service:
       with you we agree on a plan that fits your organisation setup & maturity level.
       Our plan contains detailed short trem backlog items and an clear outlook towards
       the near future.   "
+  - content: "Our years of IT infra/cloud and IT enterprise hands on knowlegde combined
+      with years of strategic It consultancy and delivery with the big firms offers
+      a unique combination.  \n\nYou know your business and strategy to follow the
+      best, no doubt about that. We will help you avoid the pitfalls and explain the
+      dillema's that come with such a transformation. \n\nExamples as: \"Should you
+      go for an early closure of your DC or IT service provider contract and go for
+      an lift and shift to cloud OR Transform/modernise your application portfolio
+      and gradually move toward cloud\"\n\nBoth have their pro's and con's and will
+      depend on many aspects  on what  is right for you.  We can help you make that
+      desicion from our independent outside in view. "
+    name: 'Honest & Independent Strategic IT transformation Advice '
+    icon: ti-direction
