@@ -166,6 +166,20 @@ a:hover {
   background-color: #57585A;
 }
 
+.bg-light {
+  background-color: #fff;
+  color: #242930;
+}
+
+.bg-gray {
+  background-color: #D1D2D4;
+}
+
+.bg-green {
+  background-color: #005B45;
+
+}
+
 .bg-dark {
   background: #242930;
 }
@@ -453,7 +467,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0.2);
   position: absolute;
   top: 0;
   right: 0;
@@ -555,7 +569,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #005B45;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -958,7 +972,7 @@ a:hover {
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
   margin-bottom: 40px;
-  /* box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7); */
+  box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.1);
 }
 
 .service-block .service-icon {
