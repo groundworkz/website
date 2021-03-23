@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Groundworkz"
 [Languages.en]
 contentDir = "content/english"
-copyright = "GroundWorkz 2021"
+copyright = "Groundworkz 2021"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -28,11 +28,11 @@ weight = 1
 #pre = "#"
 #url = "team"
 #weight = 4
-[[Languages.en.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
+#[[Languages.en.menu.main]]
+#name = "blog"
+#pre = "#"
+#url = "blog"
+#weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
@@ -46,14 +46,16 @@ description = "Groundworkz 2021"
 google_analytics_id = ""
 logo = "/images/gw-logo-txt1.png"
 post_share = true
+
 [params.cookies]
 enable = false
 expire_days = 2
+
 [params.map]
-enable = false
+enable = true
 gmap_api = ""
-map_latitude = ""
-map_longitude = ""
+map_latitude = "52.1052028"
+map_longitude = "5.0798323"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
