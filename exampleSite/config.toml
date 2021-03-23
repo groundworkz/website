@@ -44,7 +44,7 @@ weight = 7
 author = "Groundworkz"
 description = "Groundworkz 2021"
 google_analytics_id = ""
-logo = "/images/gw-logo-txt1.png"
+logo = "/images/logo.png"
 post_share = true
 
 [params.cookies]
@@ -52,7 +52,7 @@ enable = false
 expire_days = 2
 
 [params.map]
-enable = true
+enable = false
 gmap_api = ""
 map_latitude = "52.1052028"
 map_longitude = "5.0798323"
@@ -82,7 +82,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
