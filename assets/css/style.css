@@ -502,7 +502,7 @@ a:hover {
   float: none;
   top: 0;
   position: absolute;
-  height: 35vh;
+  height: 20vh;
 }
 
 .bg-1 {
@@ -557,7 +557,7 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
+  font-size: 1.2rem;
   color: #fff;
   text-transform: lowercase;
   font-family: 'IBM Plex Mono', Courier, monospace;
@@ -565,24 +565,68 @@ a:hover {
   margin-bottom: 20px;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 480px) {
   .hero-area .block {
-    padding-top: 2em;
+    padding-top: 2rem;
   }
   .hero-area .block h1 {
-    font-size: 24px;
+    font-size: 1.7rem;
   }
   .hero-area .block p {
-    font-size: 12px;
+    font-size: 1.2rem;
   }
   .logo-top {
-    height: 25vh;
+    height: 30vh;
+  }
+}
+
+@media (min-width: 768px) {
+  .hero-area .block {
+    padding-top: 2rem;
+  }
+  .hero-area .block h1 {
+    font-size: 2.4rem;
+  }
+  .hero-area .block p {
+    font-size: 1.2rem;
+  }
+  .logo-top {
+    height: 30vh;
+  }
+}
+
+@media (min-width: 992px) {
+  .hero-area .block {
+    padding-top: 2rem;
+  }
+  .hero-area .block h1 {
+    font-size: 3.6rem;
+  }
+  .hero-area .block p {
+    font-size: 1.6rem;
+  }
+  .logo-top {
+    height: 30vh;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-area .block {
+    padding-top: 2rem;
+  }
+  .hero-area .block h1 {
+    font-size: 4.2rem;
+  }
+  .hero-area .block p {
+    font-size: 1.6rem;
+  }
+  .logo-top {
+    height: 30vh;
   }
 }
 
 .hero-area .block p {
   color: #fff;
-  font-size: 20px;
   width: 70%;
   margin: 0 auto;
 }
