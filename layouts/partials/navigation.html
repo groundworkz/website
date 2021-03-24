@@ -1,6 +1,6 @@
 <section class="sticky-top navigation">
 	<div class="container">
-		<nav class="navbar navbar-expand-lg">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
 				{{ if site.Params.logo }}
 				<img class="lozad" data-src="{{ site.Params.logo | absURL }}" alt="{{ .Site.Title }}" height="42">
@@ -9,12 +9,12 @@
 				{{ end }}
 			</a>
 
-			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
+			<button class="navbar-toggler rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 
 			<div class="collapse navbar-collapse" id="navigation">
-				<ul class="navbar-nav ml-auto">
+				<ul class="navbar-nav ms-auto">
 					{{ range site.Menus.main }}
 					<li class="nav-item">
             <a class="nav-link" href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>

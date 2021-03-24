@@ -14,7 +14,7 @@ html {
 
 body {
   background-color: #353b43;
-  font-family: "Anaheim", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #D1D2D4;
   -webkit-font-smoothing: antialiased;
 }
@@ -26,12 +26,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #BCBDC0;
 }
 
 p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 [scroll-behavior=smooth] {
@@ -40,6 +40,10 @@ p {
 
 pre {
   color: #BCBDC0;
+}
+
+.card {
+  background-color: transparent;
 }
 
 /*=================================================================
@@ -162,8 +166,19 @@ a:hover {
   outline: 0;
 }
 
+
 .bg-one {
   background-color: #57585A;
+}
+
+.bg-lego {
+  background-image: linear-gradient(rgba(92, 80, 72, 0.9), rgba(92, 80, 72, 0.9)), url("/images/backgrounds/lego.png");
+  background-position: center;
+	background-size: cover;
+  padding: 140px 0 70px;
+  color: #fff;
+  position: relative;
+  z-index: 0;
 }
 
 .bg-light {
@@ -181,8 +196,13 @@ a:hover {
 }
 
 .bg-dark {
-  background: #242930;
+  background: #2E2E2E;
 }
+
+.bg-brown-dark {
+  background: #5C5048;
+}
+
 
 .parallax-section {
   background-attachment: fixed !important;
@@ -253,6 +273,7 @@ a:hover {
 
 .section {
   padding: 100px 0;
+  z-index: 1;
 }
 
 @media (max-width: 480px) {
@@ -316,7 +337,7 @@ a:hover {
 .title h2 {
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 48px;
+  font-size: 42px;
   color: #D1D2D4;
 }
 
@@ -332,15 +353,45 @@ a:hover {
   color: #D1D2D4;
 }
 
+.bottom {
+  position: absolute;
+  bottom: 30px;
+  text-align: center;
+}
+
+.vertical {
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  text-align: center;
+  margin-left: 3px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.vertical a:hover {
+  color: #fff;
+}
+
+.vertical img {
+  margin-left: 10px;
+}
+
 .bg-gray {
   background: #f9f9f9;
 }
 
-.bg-brown, 
+.bg-brown {
+  background-image: url("../images/backgrounds/cardboard.jpg");
+  background-size: cover;
+}
+.bg-brown,
 .bg-brown h2,
 .bg-brown h3,
 .bg-brown input {
-  background: #C3B49B !important;
   color: #096655;
 }
 
@@ -445,6 +496,15 @@ a:hover {
   outline: 0;
 }
 
+.logo-top {
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+  top: 0;
+  position: absolute;
+  height: 35vh;
+}
+
 .bg-1 {
   background-repeat: no-repeat;
   background-size: cover;
@@ -478,6 +538,7 @@ a:hover {
 .hero-area .block {
   text-align: center;
   z-index: 99;
+  padding-top: 5em;
 }
 
 .hero-area .block .video-button {
@@ -498,14 +559,24 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: capitalize;
+  text-transform: lowercase;
+  font-family: 'IBM Plex Mono', Courier, monospace;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
 @media (max-width: 480px) {
+  .hero-area .block {
+    padding-top: 2em;
+  }
   .hero-area .block h1 {
-    font-size: 60px;
+    font-size: 24px;
+  }
+  .hero-area .block p {
+    font-size: 12px;
+  }
+  .logo-top {
+    height: 25vh;
   }
 }
 
@@ -569,12 +640,16 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #005B45;
   padding: 30px;
-  border-bottom: 2px solid transparent;
+  border: 2px solid #005B45;
   transition: .5s all;
   margin-bottom: 20px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: #baab8b94;
+  font-size: 1.2em;
 }
+
 
 .about .block:hover {
   border-bottom: 2px solid #005B45;
@@ -718,8 +793,11 @@ a:hover {
   background-color: transparent;
   border-radius: 0;
   padding: 5px 10px;
-  color: #57585A;
-  border: 1px solid #57585A;
+  margin: 5px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 .form-meghna .form-control:focus {
@@ -729,15 +807,18 @@ a:hover {
 
 .form-meghna input:hover,
 .form-meghna textarea:hover {
-  border-color: #005B45;
+  border-color: #fff;
+
 }
 
 #contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid #fff;
   background: #005B45;
   padding: 12px 0;
   width: 100%;
-  margin: 0;
+  margin: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 #contact-submit:hover {
@@ -967,17 +1048,43 @@ a:hover {
 /*=================================================================
   Services section
 ==================================================================*/
+.service {
+  font-size: 1.2em;
+}
+
 .service-block {
-  padding: 60px 20px;
-  border-left: 1px solid rgba(236, 239, 241, 0.07);
-  border-top: 1px solid rgba(236, 239, 241, 0.07);
-  margin-bottom: 40px;
-  box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.1);
+  background-color: transparent;
 }
 
 .service-block .service-icon {
   margin-bottom: 10px;
   font-size: 50px;
+}
+
+.carousel {
+  z-index: 1;
+}
+
+.carousel-inner {
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.carousel-inner .item{
+  height:500px;
+  background-size:cover;
+  background-position: center center;
+  border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+  }
+
+.carousel-item {
+  min-height: 50vh;
+  overflow: hidden;
+  width: 100%;
+}
+.carousel-item img {
+width: 100%;
 }
 
 /*=================================================================
@@ -1559,12 +1666,12 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #57585A;
+  color: #fff;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
   margin: 0;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: all 400ms ease-out 0s;
 }
 
