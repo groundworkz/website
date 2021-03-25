@@ -1,24 +1,23 @@
 ---
 service:
   enable: true
-  title: Our Service Portfolio
+  title: Our Fundament Services
   service_item:
-  - name: Down to earth Infra & DevOps Engineers
+  - name: Infra & DevOps Engineers
     icon: ti-user
     content: "We know what it takes to transform your existing infra setup towards
-      infra-as-code on AWS, Azure and on-premise environments. We know what your DevOps teams need in terms of
-      Infra as Code to develop their killer apps. \n\nOur engineers have made their
-      hands very dirty and know how complex on-prem legacy apps can be. Transformation
-      of your apps to Cloud easy? If you believe in Powerpoint based \"lift and shift
-      fairy tails\" that is fine. \n\nIf you want an honest story, you are at the right
-      address and we are more than happy to explain it over a coffee and whiteboard
-      session. \n\nEach of us covers a wide variety of infra and cloud technologies.
-      We spend a lot of time on Continuous Learning. This is needed to
-      stay relevant and to keep our multi-skilled profiles in shape. \n\nWe
-      are proud of what we deliver and want to be measured and recognised for our
-      quality output rather than inputs. Therefore we will agree with
-      you on realistic tangible outcomes for projects and period based deliverables
-      for semi-periodic jobs."
+      infra-as-code for on-premise and AWS, Azure environments. We know what your
+      DevOps teams need in terms of Infra-as-Code to develop their killer apps. \n\nOur
+      engineers have made their hands very dirty and know how complex on-prem legacy
+      apps can be. Transformation of your apps to Cloud easy? If you believe the Powerpoint
+      based \"lift and shift\" fairy tails that is fine.\n\nIf you want the honest
+      story, you are at the right address and we are more than happy to explain the
+      details with a coffee and whiteboard. \n\nEach of us covers a wide variety of
+      infra and cloud technologies. We spend a lot of time on continuous learning.
+      This is not a luxury but a necessity to stay relevant and to keep our multi-skilled
+      profiles in shape. \n\nWe are proud on what we deliver and want to be measured
+      and recognised for the quality output rather than our inputs. Therefore we will
+      agree with you on realistic tangible outcomes for projects and individual assigments. "
   - name: Infra as Code-blueprint sessions
     icon: ti-shift-left
     content: "What does Infra as Code really mean? How can you adopt IaC within your
@@ -29,15 +28,14 @@ service:
       with you we agree on a plan that fits your organisation setup & maturity level.
       Our plan contains detailed short term backlog items and an clear outlook towards
       the near future."
-  - content: "Our hands-on knowledge on IT infrastructure combined
-      with years of strategic IT consultancy and delivery offers
-      a unique combination.\n\nYou know your business and strategy better than anyone, 
-      no doubt about that. We will help you avoid the pitfalls and explain the
-      dilemmas that come with such a transformation. \n\nExamples as: \"Should you
-      go for an early closure of your DC or IT service provider contract and go for
-      a lift and shift to cloud OR transform and modernise your application portfolio
-      and gradually move toward cloud\"\n\nBoth have their pros and cons and will
-      depend on many aspects on what is right for you. We can help you make that
-      desicion from our independent outside in view. "
-    name: 'Honest & Independent Strategic IT transformation Advice'
+  - content: "Our hands-on knowledge on IT infrastructure combined with years of strategic
+      IT consultancy and delivery offers a unique combination.\n\nYou know your business
+      and strategy better than anyone, no doubt about that. We will help you avoid
+      the pitfalls and explain the dilemmas that come with such a transformation.
+      \n\nExamples as: \"Should you go for an early closure of your DC or IT service
+      provider contract and go for a lift and shift to cloud OR transform and modernise
+      your application portfolio and gradually move toward cloud\"\n\nBoth have their
+      pros and cons and will depend on many aspects on what is right for you. We can
+      help you make that desicion from our independent outside in view. "
+    name: Honest & Independent Strategic IT transformation Advice
     icon: ti-direction
