@@ -18,6 +18,6 @@ skill:
   - name: DevOps Pipeline ( Jenkins, AzureDevOps, Gitlab..ect)
     percent: 70%
   - name: Monitoring ( Splunk, New Relic, Dynatrace)
-    percent: "70"
+    percent: 70%
   - name: 'Cloud ( AWS , AZURE) '
-    percent: "75"
+    percent: 75%
