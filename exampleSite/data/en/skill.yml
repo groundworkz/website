@@ -13,7 +13,7 @@ skill:
     percent: "85"
   - name: 'Hybrid Infra deployment ( Terraform, ARM, Cloudformation) '
     percent: "80"
-  - name: Kubernetes (&EKS/AKS)
+  - name: Container Management (Kubernetes, EKS, AKS, Docker)
     percent: "80"
   - name: DevOps Pipeline
     percent: 70%
