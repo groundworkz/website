@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  #bg_image_webp: "images/backgrounds/hero-area-green.webp"
-  bg_image: "images/backgrounds/hero-area-green.png"
-  icon: ""
+  bg_image: images/backgrounds/hero-area-green.png
+  icon: ''
   title: "<infra-as-code engineers />"
-  content: "We are experienced DevOps engineers who help you Optimize, Automate and Modernise your infrastructure by implementing Infra as Code. Both on public cloud and on-premises environments."
+  content: 'We are experienced Infra & Cloud engineers who help you Optimize, Automate
+    and Modernise your infrastructure by implementing Infra as Code. '
   button:
     enable: true
-    label: "Why us?"
+    label: Why us?
     link: "#about"
