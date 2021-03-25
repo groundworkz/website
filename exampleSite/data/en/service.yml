@@ -18,16 +18,16 @@ service:
       profiles in shape. \n\nWe are proud on what we deliver and want to be measured
       and recognised for the quality output rather than our inputs. Therefore we will
       agree with you on realistic tangible outcomes for projects and individual assigments. "
-  - name: Infra as Code-blueprint sessions
+  - name: Infra-as-Code-blueprint sessions
     icon: ti-shift-left
-    content: "What does Infra as Code really mean? How can you adopt IaC within your
-      organisation?  After our initial conversations with various end users, admins,
-      infra owners, we will do our homework and come back with two half day workshops
-      to explain, outline and agree on the next steps to implement IaC within your
-      organisation.  \n\nWe are not Powerpoint junkies nor report writers, together
+    content: "What does Infra-as-Code (IaC) really mean? How can you adopt IaC within
+      your organisation?  After our initial conversations with various end users,
+      admins, infra owners, we will do our homework and come back with two half day
+      workshops to explain, outline and agree on the next steps to implement IaC within
+      your organisation.  \n\nWe are not Powerpoint junkies nor report writers, together
       with you we agree on a plan that fits your organisation setup & maturity level.
-      Our plan contains detailed short term backlog items and an clear outlook towards
-      the near future."
+      Our plan contains detailed short term backlog items and a clear realistic outlook
+      towards the near future."
   - content: "Our hands-on knowledge on IT infrastructure combined with years of strategic
       IT consultancy and delivery offers a unique combination.\n\nYou know your business
       and strategy better than anyone, no doubt about that. We will help you avoid
