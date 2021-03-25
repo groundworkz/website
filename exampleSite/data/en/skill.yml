@@ -7,6 +7,8 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
+  - name: Kubernetes (&EKS/AKS)
+    percent: "80"
   - name: IT Infrastructure
     percent: 95%
   - name: DevOps Pipeline
