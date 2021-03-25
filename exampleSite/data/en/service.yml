@@ -28,17 +28,15 @@ service:
       with you we agree on a plan that fits your organisation setup & maturity level.
       Our plan contains detailed short term backlog items and a clear realistic outlook
       towards the near future."
-  - content: "Our +20 years hands-on expirience in IT infrastructure combined with
-      years of strategic entreprise IT consultancy and delivery offers a unique combination.\n\nYou
-      know your business and strategy better than anyone, no doubt about that. Chance
-      is that you probably have some nice powerpoints explaining what to do next to
-      make it real. But where and how to really start? \n\nYou need someone that can
-      bridge the gap between business and IT. Someone that can bring both together
-      and ignites the spark. Someone that will unite and make sure everybody understands
-      the \"what is in it for me\" question. Only that leads to intrinsically motivated
-      staff that are eager for change. People make the difference not Powerpoint or
-      status reports. \n\nOur experience with complex IT transformation in large and
-      midsized companies will help you avoid the pitfalls and explain the dilemmas
-      upfront that come with such a transformation. "
+  - content: "You know your business and strategy better than anyone, no doubt about
+      that. Chance is that you probably have some nice powerpoints explaining what
+      to do next to make it real. But where and how to really start? \n\nYou need
+      someone that can bridge the gap between business and IT. Someone that can bring
+      both together and ignites the spark. Someone that will unite and make sure everybody
+      understands the \"what is in it for me\" question. Only that leads to intrinsically
+      motivated staff that are eager for change. People make the difference not Powerpoint
+      or status reports. \n\nOur +20 years of hands-on experience with complex IT
+      transformation in large and midsized companies will help you avoid the pitfalls
+      and explain the dilemmas upfront that come with such a transformation. "
     name: Strategic IT transformation Advisery
     icon: ti-direction
