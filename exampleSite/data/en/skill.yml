@@ -2,19 +2,17 @@
 skill:
   enable: true
   title: What do we Master
-  subtitle: 'We have expertise in nearly any on-premise infrastructure tools as well
-    as modern scripting languages, pipeline tooling and monitoring solutions.'
+  subtitle: We have expertise in nearly any on-premise infrastructure tools as well
+    as modern scripting languages, pipeline tooling and monitoring solutions.
   content: ''
   image: images/about/company-growth.webp
   skill_item:
   - name: Infrastructure
-    percent: 90%
+    percent: 95%
   - name: DevOps
     percent: 70%
   - name: Automation
     percent: 90%
-  - name: DevOps
-    percent: 70%
   - name: Monitoring
     percent: 80%
   - name: Networking
