@@ -15,7 +15,7 @@ skill:
     percent: "80"
   - name: Container Management (Kubernetes, EKS, AKS, Docker)
     percent: "80"
-  - name: DevOps Pipeline
+  - name: DevOps Pipeline ( Jenkins, AzureDevOps, Gitlab..ect)
     percent: 70%
   - name: Automation
     percent: 90%
