@@ -9,7 +9,7 @@ skill:
   skill_item:
   - name: 'IT Infrastructure (VMware, CISCO, HPE, F5, CITRIX) '
     percent: 95%
-  - name: 'Infra Automation (Chef, Puppet, Ansible) '
+  - name: 'Infra automation & deploy(Chef, Puppet, Ansible) '
     percent: "85"
   - name: 'Hybrid Infra deployment ( Terraform, ARM, Cloudformation) '
     percent: "80"
