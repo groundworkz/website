@@ -13,11 +13,11 @@ skill:
     percent: 90%
   - name: 'Cloud deployment ( Terraform, ARM, Cloudformation) '
     percent: 80%
+  - name: 'Cloud ( AWS , AZURE) '
+    percent: 75%
   - name: Container Management (Kubernetes, EKS, AKS, Docker)
     percent: 75%
   - name: DevOps Pipeline ( Jenkins, AzureDevOps, Gitlab..ect)
     percent: 70%
   - name: Monitoring ( Splunk, New Relic, Dynatrace)
     percent: 70%
-  - name: 'Cloud ( AWS , AZURE) '
-    percent: 75%
