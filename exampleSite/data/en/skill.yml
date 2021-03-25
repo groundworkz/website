@@ -7,14 +7,14 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
+  - name: 'IT Infrastructure (VMware, CISCO, HPE, F5, CITRIX) '
+    percent: 95%
   - name: Chef, Puppet, Ansible
     percent: "85"
   - name: Terraform
     percent: "75"
   - name: Kubernetes (&EKS/AKS)
     percent: "80"
-  - name: IT Infrastructure
-    percent: 95%
   - name: DevOps Pipeline
     percent: 70%
   - name: Automation
