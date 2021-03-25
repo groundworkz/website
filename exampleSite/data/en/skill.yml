@@ -9,7 +9,7 @@ skill:
   skill_item:
   - name: IT Infrastructure
     percent: 95%
-  - name: DevOps
+  - name: DevOps Pipeline
     percent: 70%
   - name: Automation
     percent: 90%
