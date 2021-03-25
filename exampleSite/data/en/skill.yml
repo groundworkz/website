@@ -19,9 +19,5 @@ skill:
     percent: 70%
   - name: Monitoring ( Splunk, New Relic, Dynatrace)
     percent: "70"
-  - name: Networking
-    percent: 95%
-  - name: Cloud
-    percent: 60%
-  - name: Security
-    percent: 30%
+  - name: 'Cloud ( AWS , AZURE) '
+    percent: "75"
