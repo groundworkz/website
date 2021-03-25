@@ -11,8 +11,8 @@ skill:
     percent: 95%
   - name: 'Infra Automation (Chef, Puppet, Ansible) '
     percent: "85"
-  - name: Terraform
-    percent: "75"
+  - name: 'Hybrid Infra deployment ( Terraform, ARM, Cloudformation) '
+    percent: "80"
   - name: Kubernetes (&EKS/AKS)
     percent: "80"
   - name: DevOps Pipeline
