@@ -11,7 +11,7 @@ skill:
     percent: 95%
   - name: 'Infra deploy(Chef, Puppet, Ansible) '
     percent: "85"
-  - name: 'Hybrid Infra deployment ( Terraform, ARM, Cloudformation) '
+  - name: 'Cloud deployment ( Terraform, ARM, Cloudformation) '
     percent: "80"
   - name: Container Management (Kubernetes, EKS, AKS, Docker)
     percent: "80"
