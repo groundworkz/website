@@ -8,7 +8,7 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Chef, Puppet, Ansible
-    percent: ''
+    percent: "85"
   - name: Terraform
     percent: "75"
   - name: Kubernetes (&EKS/AKS)
