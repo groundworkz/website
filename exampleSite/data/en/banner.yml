@@ -4,7 +4,7 @@ banner:
   bg_image: images/backgrounds/hero-area-green.png
   icon: ''
   title: "<infra-as-code engineers />"
-  content: 'We are experienced Infra & Cloud engineers who help you Optimize, Automate
+  content: 'We are experienced Infra, & DevOps engineers who help you Optimize, Automate
     and Modernise your infrastructure by implementing Infra as Code. '
   button:
     enable: true
