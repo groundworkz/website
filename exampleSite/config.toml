@@ -102,5 +102,5 @@ link = "https://www.linkedin.com/company/groundworkz"
 icon = "ti-github"
 link = "https://github.com/groundworkz"
 #[[params.social]]
-#icon = "ti-pinterest"
-#link = "#"
+#icon = "ti-comments"
+#link = "https://calendar.x.ai/groundworkz-niels/free-coffee"
