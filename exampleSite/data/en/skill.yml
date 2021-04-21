@@ -7,15 +7,15 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: 'IT Infrastructure (VMware, CISCO, HPE, F5, CITRIX) '
-    percent: 95%
-  - name: 'Infra deploy(Chef, Puppet, Ansible) '
-    percent: 90%
   - name: 'Cloud deployment ( Terraform, ARM, Cloudformation) '
     percent: 80%
-  - name: 'Cloud ( AWS , AZURE) '
-    percent: 75%
+  - name: 'Infra deploy(Chef, Puppet, Ansible) '
+    percent: 90%
   - name: Container Management (Kubernetes, EKS, AKS, Docker)
+    percent: 75%
+  - name: 'IT Infrastructure (VMware, CISCO, HPE, F5, CITRIX) '
+    percent: 95%
+  - name: 'Cloud ( AWS , AZURE) '
     percent: 75%
   - name: DevOps Pipeline ( Jenkins, AzureDevOps, Gitlab..ect)
     percent: 70%
