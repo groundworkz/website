@@ -89,9 +89,9 @@ preloader = "images/logo-small.png"
 #[[params.social]]
 #icon = "ti-facebook"
 #link = "#"
-#[[params.social]]
-#icon = "ti-twitter-alt"
-#link = "#"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/Groundworkznl"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCoW2_jWYLa04tTKTiDLTAxQ"
