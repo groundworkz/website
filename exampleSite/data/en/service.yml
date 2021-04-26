@@ -9,35 +9,35 @@ service:
       infra-as-code for on-premise and AWS, Azure environments. We know what your
       DevOps teams need in terms of Infra-as-Code to develop their killer apps. \n\nOur
       engineers have made their hands very dirty and know how complex on-prem legacy
-      apps can be. Transformation of your apps to Cloud easy? If you believe the Powerpoint
-      based \"lift and shift\" fairy tails that is fine.\n\nIf you want the honest
+      apps can be. Transformation of your apps to Cloud easy? If you believe the PowerPoint
+      based \"lift and shift\" fairy tales that is fine.\n\nIf you want the honest
       story, you are at the right address and we are more than happy to explain the
       details with a coffee and whiteboard. \n\nEach of us covers a wide variety of
       infra and cloud technologies. We spend a lot of time on continuous learning.
       This is not a luxury but a necessity to stay relevant and to keep our multi-skilled
       profiles in shape. \n\nWe are proud on what we deliver and want to be measured
       and recognised for the quality output rather than our inputs. Therefore we will
-      agree with you on realistic tangible outcomes for projects and individual assigments. "
+      agree with you on realistic tangible outcomes for projects and individual assignments."
   - name: Infra-as-Code-blueprint sessions
     icon: ti-shift-left
     content: "What does Infra-as-Code (IaC) really mean? How can you adopt IaC within
-      your organisation?  After our initial conversations with various end users,
+      your organisation? After our initial conversations with various end users,
       admins, infra owners, we will do our homework and come back with two half day
       workshops to explain, outline and agree on the next steps to implement IaC within
-      your organisation.  \n\nWe are not Powerpoint junkies nor report writers, together
-      with you we agree on a plan that fits your organisation setup & maturity level.
-      Our plan contains detailed short term backlog items and a clear realistic outlook
+      your organisation. \n\nWe are not PowerPoint junkies nor report writers, but together
+      with you we can agree on a plan that fits your organisation setup & maturity level.
+      Our plans contain detailed short term backlog items and a clear realistic outlook
       towards the near future."
   - content: "You know your business and strategy better than anyone, No doubt about
-      that. Chance is that you probably have some nice powerpoints explaining what
-      to do next to make it real. But where and how to really start? \n\nYou need
-      someone that can bridge the gap of misunderstanding between business and IT.
-      Someone that can bring both together and ignites the spark. Someone that will
-      unite and make sure everybody understands the \"what is in it for me\" question.
-      Only that leads to intrinsically motivated staff that are eager for change.
-      People make the difference not Powerpoints or Status Reports. \n\nOur +20 years
+      that. Chances are that you probably have some nice PowerPoints explaining what
+      to do next to make it real. But how and where to really start? \n\nYou need
+      someone who can bridge the gap of misunderstanding between business and IT.
+      Someone who can breeds unity and ignite the spark. Someone who makes sure that 
+      everybody understands the eternal question: \"what's in it for me?\"
+      Only that leads to intrinsically motivated staff who are eager for change.
+      People make the difference, not PowerPoints or Status Reports. \n\nOur +20 years
       of hands-on experience with complex IT transformation in large and midsized
-      companies will help you avoid the pitfalls and explain the dilemmas upfront
-      that come with such a transformation. "
-    name: Strategic IT transformation Advisery
+      companies will help you avoid the common pitfalls, and we will explain the dilemmas 
+      that accompany these transformations upfront."
+    name: Strategic IT transformation Advisory
     icon: ti-direction
