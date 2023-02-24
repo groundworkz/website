@@ -8,7 +8,7 @@ contact:
   - icon: ti-location-pin
     info: Tractieweg 41 studio E, Utrecht, The Netherlands
   - icon: ti-email
-    info: 'Email: info@groundworkz.nl'
+    info: Niels Oldenburger 'Email: niels@groundworkz.nl'
   contact_form:
     enable: true
     form_action: "#"
