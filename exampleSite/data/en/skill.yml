@@ -7,7 +7,7 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: 'Cloud deployment ( Terraform, ARM, Cloudformation) '
+  - name: 'Cloud deployment ( Terraform, ARM, Bicep, Cloudformation, CDK) '
     percent: 80%
   - name: 'Infra deploy(Chef, Puppet, Ansible) '
     percent: 90%
