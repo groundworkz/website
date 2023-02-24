@@ -6,7 +6,8 @@ contact:
   content: 'Please reach out for any question about jobs or our expertise. '
   contact_list:
   - icon: ti-location-pin
-    info: Tractieweg 41 studio E, Utrecht, The Netherlands
+    info: Niels Oldenburger |  +31 621681045 | Tractieweg 41 studio E | Utrecht |
+      The Netherlands
   - icon: ti-email
     info: 'Email: niels@groundworkz.nl'
   contact_form:
