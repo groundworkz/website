@@ -5,6 +5,8 @@ contact:
   subtitle: Contact Details
   content: 'Please reach out for any question about jobs or our expertise. '
   contact_list:
+  - icon: ''
+    info: Niels Oldenburger | Owner & Founder | +31 621 681 045
   - icon: ti-location-pin
     info: Niels Oldenburger |  +31 621681045 | Tractieweg 41 studio E | Utrecht |
       The Netherlands
